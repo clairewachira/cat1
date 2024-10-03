@@ -62,7 +62,7 @@ $conn->close();
 
             <button type="submit">Login</button>
         </form>
-        <p>Don't have an account? <a href="register.php">Register Here</a></p>
+        <p>Don't have an account? <a href="register.php">Please Register Here</a></p>
     </div>
 </body>
 </html>
